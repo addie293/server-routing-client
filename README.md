@@ -9,7 +9,6 @@
 
 >**Dhayananth Dharmalingam**
 
-(Video demo : [click-here](https://www.youtube.com/watch?v=gS8hE2Xa2jM))
 
 ## Project Overview 
 ![Alt text](https://raw.githubusercontent.com/ujm-cloud-computing-open/front-app/main/proj-architecture.png "Project architecture")
@@ -50,8 +49,7 @@ The project is consist of three applications.
 ## How to get started with the Project
  
  1. To run the program Java 11 or greater version must be installed in the computer
- 2. Download the Application file from Git repositories (front-app & server-routing-client repositories need to be downloaded) (Here is the link : [click-here](https://github.com/ujm-cloud-computing-open))
-
+ 2. Download the Application file from Git repositories (front-app & server-routing-client repositories need to be downloaded) 
  3. edit configuration files in server-routing-client as follow.
     * aws.access.key: your AWS Access key. (Ex: `AWSDZXCSD23`)
     * aws.secret.key: your AWS SAecret key. (Ex: `AWSDZXCSD23`)
